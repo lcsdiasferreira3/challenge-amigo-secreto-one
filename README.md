@@ -1,7 +1,7 @@
 <h1>Challenge do amigo secreto Alura+One</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado no curso final da formação "iniciante em programação" da Alura, que tem por objetivo adicionar diversos nomes em uma lista e realizar o sorteio</p>
+<p>Projeto utilizado no curso final da formação "iniciante em programação" da Alura, que tem por objetivo adicionar diversos nomes em uma lista e realizar o sorteio.</p>
 
 ## 🚀 Tecnologias
 <div>
